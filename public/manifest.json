@@ -1,0 +1,11 @@
+{
+    "name": "AZ",
+    "version": "1.0.0",
+    "description": "This AZ first extension",
+    "manifest_version": 3,
+    "author": "AZ",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "AZ"
+    }
+}
